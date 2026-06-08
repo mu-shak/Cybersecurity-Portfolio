@@ -9,7 +9,3 @@ I am currently studying Cyber Security & Digital Forensics. This repository show
 ### Professional Statement
 
 * Professional Statement
-
-### Certifications
-
-* Google Cybersecurity Certificate
