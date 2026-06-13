@@ -7,5 +7,8 @@ I am currently studying Cyber Security & Digital Forensics. This repository show
 ## Portfolio Projects
 
 ### Professional Statement
+Created a professional cybersecurity statement outlining my skills, values, and career goals.
 
-* Professional Statement
+### Security Audit
+Performed an internal security audit for Botium Toys using NIST CSF principles.
+
