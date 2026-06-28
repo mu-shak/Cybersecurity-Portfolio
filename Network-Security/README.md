@@ -1,35 +1,67 @@
 # Network Security
 
-This folder contains my network security projects completed as part of the Google Cybersecurity Professional Certificate.
+This folder contains my hands-on network security projects completed throughout the Google Cybersecurity Professional Certificate.
 
-These projects demonstrate my ability to analyze network traffic, investigate cybersecurity incidents, identify common network attacks, recommend security controls, and assess security risks.
+These projects demonstrate my ability to investigate cybersecurity incidents, analyze network traffic, identify attacks, assess organizational risk, and recommend practical security improvements.
 
+---
 
-## Contents
+## Incident Reports
 
-### Incident Reports
+Projects completed:
 
-This section contains practical cybersecurity investigations where I analyzed network traffic, identified attacks, documented incidents, and recommended remediation steps.
+- Network Traffic Analysis
+- Analyze Network Attacks
+- Apply OS Hardening Techniques
+- NIST CSF Incident Report Analysis
 
+Topics covered:
 
-### Risk Assessments
+- DNS
+- HTTP
+- TCP/IP
+- ICMP
+- SYN Flood Attacks
+- Brute Force Attacks
+- Malware Redirection
+- Firewall Security
+- Operating System Hardening
+- Incident Response
+- NIST Cybersecurity Framework
 
-This section contains security risk assessments focused on identifying vulnerabilities and recommending network hardening practices to improve an organization's overall security posture.
+---
 
+## Risk Assessments
+
+Projects completed:
+
+- Network Hardening Security Risk Assessment
+
+Topics covered:
+
+- Network Hardening
+- Firewall Configuration
+- Password Policies
+- Multi-Factor Authentication
+- Port Filtering
+- Security Recommendations
+
+---
 
 ## Skills Demonstrated
 
 - Network Security
-- TCP/IP Fundamentals
-- DNS & HTTP Analysis
+- Incident Response
 - Packet Analysis
 - tcpdump
 - Wireshark
-- Incident Response
-- Incident Documentation
-- Risk Assessment
+- DNS Analysis
+- TCP/IP
+- HTTP
+- ICMP
+- Firewall Configuration
 - Network Hardening
-- Firewall Security
-- Password Security
-- Multi-Factor Authentication (MFA)
-- Security Recommendations
+- Operating System Hardening
+- Risk Assessment
+- Security Documentation
+- NIST Cybersecurity Framework (CSF)
