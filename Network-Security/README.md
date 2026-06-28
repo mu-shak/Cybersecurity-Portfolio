@@ -1,18 +1,35 @@
 # Network Security
 
-This folder contains my network security activities, traffic analysis tasks, and incident reports completed as part of the Google Cybersecurity Certificate.
+This folder contains my network security projects completed as part of the Google Cybersecurity Professional Certificate.
 
-## Network Security Activities
+These projects demonstrate my ability to analyze network traffic, investigate cybersecurity incidents, identify common network attacks, recommend security controls, and assess security risks.
 
-This section includes practical work related to networking concepts, protocols, DNS, ICMP, packet analysis, and troubleshooting network-related cybersecurity incidents. These activities help demonstrate my understanding of how network communication works and how security analysts investigate network issues.
+
+## Contents
+
+### Incident Reports
+
+This section contains practical cybersecurity investigations where I analyzed network traffic, identified attacks, documented incidents, and recommended remediation steps.
+
+
+### Risk Assessments
+
+This section contains security risk assessments focused on identifying vulnerabilities and recommending network hardening practices to improve an organization's overall security posture.
+
 
 ## Skills Demonstrated
 
-- Network Traffic Analysis
-- DNS and ICMP Analysis
+- Network Security
 - TCP/IP Fundamentals
-- Incident Investigation
-- Problem Solving
-- Troubleshooting
-- Analytical Thinking
-- Cybersecurity Reporting
+- DNS & HTTP Analysis
+- Packet Analysis
+- tcpdump
+- Wireshark
+- Incident Response
+- Incident Documentation
+- Risk Assessment
+- Network Hardening
+- Firewall Security
+- Password Security
+- Multi-Factor Authentication (MFA)
+- Security Recommendations
