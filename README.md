@@ -2,59 +2,77 @@
 
 Welcome to my cybersecurity portfolio.
 
-I am currently studying BSc (Hons) Cyber Security & Digital Forensics at Middlesex University Dubai while completing the Google Cybersecurity Professional Certificate. This repository showcases my hands-on cybersecurity projects, labs, incident reports, risk assessments, and professional development activities.
+I am currently studying **BSc (Hons) Cyber Security & Digital Forensics** at Middlesex University Dubai while completing the **Google Cybersecurity Professional Certificate**. This repository showcases my hands-on cybersecurity projects, labs, incident reports, risk assessments, and professional development activities.
 
-## Portfolio Projects
+---
 
-### Professional Statement
+# Portfolio Projects
+
+## Professional Statement
+
 Created a professional cybersecurity statement outlining my skills, values, career goals, and commitment to protecting organizations through effective security practices.
 
-### Security Audit
-Performed an internal security audit for Botium Toys using the NIST Cybersecurity Framework (CSF). Assessed organizational controls, identified security gaps, evaluated compliance requirements, and provided recommendations to improve the organization's overall security posture.
+---
 
-### Network Security
-Completed multiple hands-on network security investigations and practical security assessments as part of the Google Cybersecurity Professional Certificate.
+## Security Audit
 
-Projects completed include:
+Performed an internal security audit for Botium Toys using the **NIST Cybersecurity Framework (CSF)**.
 
-- Network Traffic Analysis using tcpdump
-- DNS & ICMP Traffic Investigation
-- SYN Flood (DoS) Attack Analysis
-- Operating System Hardening Incident Investigation
-- Brute Force Attack Investigation
+Skills demonstrated:
+
+- Security Auditing
+- Risk Assessment
+- NIST CSF
+- Compliance
+- Security Controls
+
+---
+
+## Network Security
+
+Completed multiple practical cybersecurity investigations and network security assessments as part of the Google Cybersecurity Professional Certificate.
+
+### Incident Reports
+
+- DNS & ICMP Network Traffic Analysis
+- SYN Flood (DoS) Attack Investigation
+- Operating System Hardening Investigation
+- NIST Cybersecurity Framework (CSF) Incident Report Analysis
+
+### Risk Assessments
+
 - Network Hardening Security Risk Assessment
 
-These projects demonstrate practical experience in:
+Skills demonstrated:
 
-- Network Traffic Analysis
-- Incident Response
-- Security Documentation
-- Packet Analysis
-- DNS & HTTP Protocol Analysis
-- Risk Assessment
-- Operating System Hardening
-- Network Hardening
-- Firewall Security
-- Security Recommendations
-
-## Skills Demonstrated
-
-- Cybersecurity Fundamentals
-- Security Auditing
 - Network Security
+- Incident Response
 - TCP/IP
 - DNS
 - HTTP
-- Packet Analysis
+- ICMP
 - Wireshark
 - tcpdump
-- Incident Response
+- Firewall Security
+- Network Hardening
+- Operating System Hardening
 - Security Documentation
 - Risk Assessment
-- Operating System Hardening
-- Network Hardening
-- Firewall Security
-- Password Security
-- Multi-Factor Authentication (MFA)
-- Critical Thinking
-- Problem Solving
+- NIST Cybersecurity Framework (CSF)
+
+---
+
+# Certifications
+
+- Google AI Essentials
+- Google Foundations of AI Literacy
+- Introduction to the Research Process – Middlesex University Dubai
+- Google Cybersecurity Professional Certificate *(In Progress)*
+
+---
+
+# About Me
+
+I am an aspiring cybersecurity professional passionate about network security, incident response, digital forensics, and security operations.
+
+My goal is to build practical, real-world cybersecurity experience through hands-on labs, professional certifications, and portfolio projects while preparing for a career as a SOC Analyst, Security Analyst, or Digital Forensics professional.
